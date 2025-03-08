@@ -25,4 +25,4 @@ services:
       - database-rocketseat:/var/lib/postgresql/data
 
 volumes:
-  database:
+  database-rocketseat:
